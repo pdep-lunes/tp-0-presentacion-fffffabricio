@@ -7,6 +7,8 @@
 *Legajo:* 213.652-1
 
 *Carrera:* Ingeniería en Sistemas de informacion
+<img width="300" height="300" alt="foto selfie" src="https://github.com/user-attachments/assets/b9514635-fb1e-4052-bf93-576798f51f61" />
+
  
 
 
